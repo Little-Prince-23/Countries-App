@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.col-2 img{
+    height: 110px;
+}
